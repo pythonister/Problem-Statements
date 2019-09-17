@@ -34,3 +34,10 @@ Output:
 
 [1, 9, 25, 49, 81]
 [4, 16, 36, 64, 100]
+
+
+Problem 3 :
+    
+user =str(input(""))
+spl = user.split(".")
+print (repr(spl[-1]))
