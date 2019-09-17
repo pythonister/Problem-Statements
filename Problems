@@ -20,3 +20,10 @@ INPUT LIST = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
 Output:
 Even list [only even numbers want to sorted from INPUT LIST here]
 Odd list [only odd numbers want to sorted from INPUT LIST here]
+
+
+Problem 3 :
+Question :
+Write a Python program to accept a filename from the user and print the extension of that.
+Sample filename : abc.java
+Output : java
